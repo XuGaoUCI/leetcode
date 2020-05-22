@@ -4,3 +4,5 @@
 [299 Bulls and Cows](https://github.com/XuGaoUCI/leetcode/blob/master/lc299.py)
 
 [1296 Divide Array in Sets of K Consecutive Numbers](https://github.com/XuGaoUCI/leetcode/blob/master/lc1296.py)
+
+[1055 Shortest Way to Form String](https://github.com/XuGaoUCI/leetcode/blob/master/lc1055.py)
